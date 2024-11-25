@@ -20,7 +20,7 @@ eks-sg                = "eks-sg"
 # EKS
 is-eks-cluster-enabled     = true
 cluster-version            = "1.30"
-cluster-name               = "eks-cluster"
+cluster-name               = "devops-eks-cluster"
 endpoint-private-access    = true
 endpoint-public-access     = false
 ondemand_instance_types    = ["t2.micro"]
